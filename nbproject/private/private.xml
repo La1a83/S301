@@ -3,8 +3,20 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell1_Exercici1/Main.java</file>
-            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell1_Exercici1/Undo.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/Agenda/Anotacio.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/Inter_y_Imp/ImpTelefonsAlemania.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/Inter_y_Imp/Adresa.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/AbstractFactory/AbstractFactory.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/Agenda/Agenda.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/Inter_y_Imp/ImpTelefonsEspanya.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/Inter_y_Imp/ImpAdrecesEspanya.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/Inter_y_Imp/ImpAdrecesFrança.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/AbstractFactory/FactoryAdreces.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/AbstractFactory/FactoryProducer.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/AbstractFactory/FactoryTelefons.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/Inter_y_Imp/ImpBuida.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/Inter_y_Imp/ImpAdrecesAlemania.java</file>
+            <file>file:/Users/laiayjordi/NetBeansProjects/S301/src/Nivell2_Exercici1/Main.java</file>
         </group>
     </open-files>
 </project-private>
